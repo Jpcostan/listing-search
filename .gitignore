@@ -1,0 +1,18 @@
+# Private working notes and study materials (kept local, never pushed)
+listing-search-memory.md
+study/
+.claude/
+
+# The assessment handout belongs to the company
+assessment/
+
+# Build output and downloaded dependencies (recreated by the run commands)
+backend/target/
+node_modules/
+dist/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.log

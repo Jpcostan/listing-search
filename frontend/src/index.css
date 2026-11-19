@@ -1,0 +1,5 @@
+/* Deliberately minimal. Visual polish is out of scope. */
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+}
